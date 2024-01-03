@@ -21,3 +21,4 @@ Download and install visual studio code from the Microsoft website: https://visu
 1. Download Terraform script : https://drive.google.com/drive/folders/1q4dsTymW4oBc-PcnzuSaJZWt4xEF7ta0?usp=sharing and install Terraform
 
 2. Unzip and run the script by moving into attack_lab_script/aws directory # malware-detection
+#testchange
